@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "postgre",
+    "database": "edemy_db_dev2",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "postgres",
+    "password": "",
+    "database": "edemy_db_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "username",
+    "password": "password",
+    "database": "edemy_database_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
